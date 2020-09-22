@@ -1,0 +1,75 @@
+body {
+  background-color: lightblue;
+  font-family: "Trebuchet";
+  color: black;
+}
+h1 {
+  font-family: "Times New Roman";
+  color: red;
+}
+h2 {
+  font-family: "Times New Roman";
+  color: Blue;
+}
+nav ul {
+    background-color: yellow;
+    border-style: solid;
+    border-color: darkgoldenrod;
+    border-width: 4px;
+    padding: 10px;
+    border-radius: 15px;
+}
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: darkorange;
+    font-family: "Arial Black";
+}
+nav ul li a {
+    text-decoration: none;
+    color: darkgoldenrod;
+}
+img {
+  border-radius: 10px
+}
+table, th, td {
+  border: 2px solid darkgoldenrod;
+  border-collapse: collapse;
+}
+tr {
+  background-color: yellow;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: darkorange;
+}
+td {
+  color: black;
+}
+#Arenal_Volcano {
+  width: 350px;
+  position: absolute;
+  top: 200px;
+  left: 420px;
+  visibility: visible;
+}
+#Gallo_Pinto {
+  width: 300px;
+  position: absolute;
+  top: 90px;
+  left: 450px;
+  visibility: visible;
+}
+#Arroz_con_leche {
+  width: 300px;
+  position: absolute;
+  top: 380px;
+  left: 450px;
+  visibility: visible;
+}
